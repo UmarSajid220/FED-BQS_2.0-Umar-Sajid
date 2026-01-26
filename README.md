@@ -1,14 +1,14 @@
-Course: 		**Front-End Web Development**  
-Session Name: 	**FED@BQS-2.0\_Muhammad-Umar-Sajid**  
-Total Duration: 	**48 Hours**  
-Lecture Length: 	**2 hours**  
-Total Lectures: 	**24**
+# **Front-End Web Development Course by Muhammad Umar Sajid - Bano Qabil Sahiwal**
+
+Course: **Front-End Web Development**  
+Session Name: **FED@BQS-2.0\_Muhammad-Umar-Sajid**  
+Total Duration: **48 Hours**  
+Lecture Length: **2 hours**  
+Total Lectures: **24**
 
 Prepared for students of **Bano Qabil Sahiwal.**
 
-## **Front-End Web Development**
-
-### **Table of Contents**
+## **Table of Contents**
 
 ### **1\. Introduction to the Course**
 
@@ -123,4 +123,3 @@ Prepared for students of **Bano Qabil Sahiwal.**
  14.2 Responsive Web Page Project  
  14.3 Interactive Feature Project  
  14.4 Learning Roadmap and What Comes Next
-
